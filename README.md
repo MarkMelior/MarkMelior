@@ -6,9 +6,9 @@
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.behance.net/MarkMelior">
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/></a>
-<a href="https://www.youtube.com/MarkMelior?sub_confirmation=1">
+<a href="https://www.youtube.com/MarkMelior">
 	<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-<a href="https://www.youtube.com/MarkMelior?sub_confirmation=1">
+<a href="https://www.youtube.com/MarkMelior">
 	<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 <a href="https://github.com/MarkMelior?tab=followers">
 	<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarkMelior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
