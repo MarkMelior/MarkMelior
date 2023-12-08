@@ -18,7 +18,7 @@
 	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkMelior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-##### 🎓 Пройденные курсы
+#### 🎓 Пройденные курсы
 
 -  [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
 -  [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
@@ -34,7 +34,7 @@ CodeWars
 LeetCode  
 [![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/)
 
-##### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
+#### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
 
 Stack:  
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
