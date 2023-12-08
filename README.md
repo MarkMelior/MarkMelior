@@ -1,6 +1,6 @@
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/banner2.jpg)
 
-<h2 align="center">💎 Hi, I'm Mark Melior <code>CG Web Artist</code></h2>
+<h2 align="center">💎 Hi, I'm Mark Melior <code>Frontend Developer</code></h2>
 <p align="center">Я создаю сайты и 3D графику, объединяя технологии и искусство. Постоянно совершенствую навыки, изучаю новые технологии и тренды</p>
 
 <p align="center">
