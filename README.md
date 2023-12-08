@@ -28,13 +28,13 @@
 
 ## Skills
 
-CodeWars
+CodeWars  
 [![CodeWars user MarkMelior](https://www.codewars.com/users/MarkMelior/badges/large)](https://www.codewars.com/users/MarkMelior)
 
-LeetCode
+LeetCode  
 [![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/)
 
-Stack:
+Stack:  
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MarkMelior)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MarkMelior)
