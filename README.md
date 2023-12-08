@@ -1,7 +1,7 @@
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/banner2.jpg)
 
-<h2 align="center">💎 Hi, I'm Mark Melior <code>Frontend Developer</code></h2>
-<p align="center">Я создаю сайты и 3D графику, объединяя технологии и искусство. Постоянно совершенствую навыки, изучаю новые технологии и тренды</p>
+<h2 align="center">💎 Привет, я Mark Melior <code>Frontend Developer</code></h2>
+<p align="center">Я создаю сайты и 3D графику, объединяя технологии и искусство. Постоянно совершенствую навыки и изучаю новые технологии</p>
 
 <p align="center">
 <a href="https://t.me/MeliorCommercial" target="_blank">
@@ -33,6 +33,8 @@ CodeWars
 
 LeetCode  
 [![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/)
+
+##### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
 
 Stack:  
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
