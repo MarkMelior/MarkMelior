@@ -5,6 +5,16 @@
 
 <p align="center">
 <a href="https://t.me/MeliorCommercial" target="_blank">
+	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Telegram-E6A540?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.behance.net/MarkMelior" target="_blank">
+	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Behance-E66E40?logo=behance&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
+	<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E65140&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=E65140"/></a> 
+<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
+	<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E68C40&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/></a> 
+</p>
+<!-- <p align="center">
+<a href="https://t.me/MeliorCommercial" target="_blank">
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.behance.net/MarkMelior" target="_blank">
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/></a>
@@ -16,7 +26,7 @@
 	<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarkMelior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/MarkMelior?tab=repositories&sort=stargazers">
 	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkMelior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+</p> -->
 
 #### 🎓 Пройденные курсы
 
