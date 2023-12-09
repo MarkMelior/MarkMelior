@@ -4,7 +4,7 @@
 <p align="center">Я создаю сайты и 3D графику, объединяя технологии и искусство. Постоянно совершенствую навыки и изучаю новые технологии</p>
 
 <p align="center">
-<a href="https://t.me/MeliorCommercial" target="_blank">
+<a href="https://t.me/MarkMelior" target="_blank">
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Telegram-E6A540?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.behance.net/MarkMelior" target="_blank">
 	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Behance-E66E40?logo=behance&logoColor=fff&style=for-the-badge"/></a>
