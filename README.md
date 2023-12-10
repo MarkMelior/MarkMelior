@@ -82,7 +82,7 @@ Design:
 [![NVIDIA RTX 3070 Ti](https://img.shields.io/badge/NVIDIA-RTX_3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/MarkMelior)
 [![AMD Ryzen 5 3600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/MarkMelior)
 
-## My GitHub Stats
+<!-- ## My GitHub Stats
 
 [![Profile Views GitHub Mark Melior](https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MarkMelior)
 
@@ -94,4 +94,4 @@ Design:
 	<a href="https://github.com/MarkMelior" align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMelior&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Статистика GitHub Mark Melior Top Languages" />
 	</a>
-</p>
+</p> -->
