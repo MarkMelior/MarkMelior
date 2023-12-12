@@ -28,6 +28,7 @@
 
 -  https://Portfolio-MarkMelior.vercel.app (Next.JS, React, TypeScript, SCSS)
 -  [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+-  [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
 
 -  [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 -  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
