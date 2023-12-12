@@ -33,7 +33,7 @@
 -  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
 -  [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
 
-## Hard Skills
+<h2 align="center">Hard Skills</h2>
 
 CodeWars  
 [![CodeWars user MarkMelior](https://www.codewars.com/users/MarkMelior/badges/large)](https://www.codewars.com/users/MarkMelior)
@@ -66,7 +66,7 @@ Design:
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://github.com/MarkMelior)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/MarkMelior)
 
-## My Workspace
+<h2 align="center">My Workspace</h2>
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/MarkMelior)
 [![Obsidian](https://img.shields.io/badge/Obsidian-7f6df2?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/MarkMelior)
@@ -76,7 +76,6 @@ Design:
 [![NVIDIA RTX 3070 Ti](https://img.shields.io/badge/NVIDIA-RTX_3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/MarkMelior)
 [![AMD Ryzen 5 3600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/MarkMelior)
 
-<!-- ## My GitHub Stats -->
 <h2 align="center">My GitHub Stats</h2>
 
 <!-- [![Profile Views GitHub Mark Melior](https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MarkMelior) -->
