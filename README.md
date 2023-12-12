@@ -35,11 +35,18 @@
 
 <h2 align="center">Hard Skills</h2>
 
-CodeWars  
+<p align="right">
+	<img src="https://www.codewars.com/users/MarkMelior/badges/large" />
+</p>
+<p align="right">
+	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
+</p>
+
+<!-- CodeWars
 [![CodeWars user MarkMelior](https://www.codewars.com/users/MarkMelior/badges/large)](https://www.codewars.com/users/MarkMelior)
 
-LeetCode  
-[![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/)
+LeetCode
+[![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/) -->
 
 Stack:  
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
