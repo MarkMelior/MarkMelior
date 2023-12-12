@@ -68,7 +68,7 @@ Design:
 
 ⠀
 
-<h2 align="center">My Workspace</h2>
+<h2 align="center">💻 My Workspace</h2>
 
 <p align="center">
 	<img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -80,9 +80,9 @@ Design:
 	<img alt="AMD Ryzen 5 3600" title="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
 
-<h2 align="center">My GitHub Stats</h2>
+⠀
 
-<!-- [![Profile Views GitHub Mark Melior](https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MarkMelior) -->
+<h2 align="center">⭐️ My GitHub Stats <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
 
 <p align="center">
 	<!-- <a href="http://www.github.com/MarkMelior" align="center">
