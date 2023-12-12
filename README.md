@@ -28,6 +28,8 @@
 	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkMelior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p> -->
 
+#### 💎 Мой сайт: https://Portfolio-MarkMelior.vercel.app
+
 #### 🎓 Пройденные курсы
 
 -  [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
@@ -36,7 +38,7 @@
 -  [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
 -  [PurpleSchool] NestJS `11 часов`
 
-#### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
+#### 📌 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
 #### 🔗 Мои проекты
 
