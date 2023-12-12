@@ -13,20 +13,6 @@
 <a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
 	<img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E68C40&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/></a> 
 </p>
-<!-- <p align="center">
-<a href="https://t.me/MeliorCommercial" target="_blank">
-	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.behance.net/MarkMelior" target="_blank">
-	<img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/></a>
-<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
-	<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
-	<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-<a href="https://github.com/MarkMelior?tab=followers">
-	<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarkMelior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/MarkMelior?tab=repositories&sort=stargazers">
-	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkMelior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p> -->
 
 #### 🎓 Пройденные курсы
 
@@ -43,13 +29,11 @@
 -  https://Portfolio-MarkMelior.vercel.app (Next.JS, React, TypeScript, SCSS)
 -  [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
 
----
-
 -  [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 -  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
 -  [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
 
-## Skills
+## Hard Skills
 
 CodeWars  
 [![CodeWars user MarkMelior](https://www.codewars.com/users/MarkMelior/badges/large)](https://www.codewars.com/users/MarkMelior)
@@ -63,7 +47,6 @@ Stack:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MarkMelior)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/MarkMelior)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/MarkMelior)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/MarkMelior)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MarkMelior)
 [![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/MarkMelior)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MarkMelior)
@@ -93,16 +76,17 @@ Design:
 [![NVIDIA RTX 3070 Ti](https://img.shields.io/badge/NVIDIA-RTX_3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/MarkMelior)
 [![AMD Ryzen 5 3600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/MarkMelior)
 
-<!-- ## My GitHub Stats
+<!-- ## My GitHub Stats -->
+<h2 align="center">My GitHub Stats</h2>
 
-[![Profile Views GitHub Mark Melior](https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MarkMelior)
+<!-- [![Profile Views GitHub Mark Melior](https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MarkMelior) -->
 
 <p align="center">
-	<a href="http://www.github.com/MarkMelior" align="center">
+	<!-- <a href="http://www.github.com/MarkMelior" align="center">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMelior&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Статистика GitHub Mark Melior" />
 	</a>
-	<br>
+	<br> -->
 	<a href="https://github.com/MarkMelior" align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMelior&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Статистика GitHub Mark Melior Top Languages" />
 	</a>
-</p> -->
+</p>
