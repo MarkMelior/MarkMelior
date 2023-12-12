@@ -68,13 +68,15 @@ Design:
 
 <h2 align="center">My Workspace</h2>
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/MarkMelior)
-[![Obsidian](https://img.shields.io/badge/Obsidian-7f6df2?style=for-the-badge&logo=obsidian&logoColor=white)](https://github.com/MarkMelior)
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MarkMelior)
-[![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/MarkMelior)
-[![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://github.com/MarkMelior)
-[![NVIDIA RTX 3070 Ti](https://img.shields.io/badge/NVIDIA-RTX_3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/MarkMelior)
-[![AMD Ryzen 5 3600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/MarkMelior)
+<p align="center">
+	<img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+	<img alt="Obsidian" title="Obsidian" src="https://img.shields.io/badge/Obsidian-7f6df2?style=for-the-badge&logo=obsidian&logoColor=white"/>
+	<img alt="Windows 11" title="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+	<img alt="ESLint" title="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+	<img alt="Prettier" title="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
+	<img alt="NVIDIA RTX 3070 Ti" title="NVIDIA RTX 3070 Ti" src="https://img.shields.io/badge/NVIDIA-RTX_3070_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+	<img alt="AMD Ryzen 5 3600" title="AMD Ryzen 5 3600" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
 
 <h2 align="center">My GitHub Stats</h2>
 
