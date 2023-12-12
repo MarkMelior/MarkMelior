@@ -28,8 +28,6 @@
 	<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkMelior?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p> -->
 
-#### 💎 Мой сайт: https://Portfolio-MarkMelior.vercel.app
-
 #### 🎓 Пройденные курсы
 
 -  [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
@@ -41,6 +39,11 @@
 #### 📌 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
 #### 🔗 Мои проекты
+
+-  https://Portfolio-MarkMelior.vercel.app (Next.JS, React, TypeScript, SCSS)
+-  [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+
+---
 
 -  [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 -  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
