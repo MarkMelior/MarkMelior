@@ -36,6 +36,14 @@
 -  [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
 -  [PurpleSchool] NestJS `11 часов`
 
+#### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
+
+#### 🔗 Мои проекты
+
+-  [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
+-  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
+-  [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
+
 ## Skills
 
 CodeWars  
@@ -43,8 +51,6 @@ CodeWars
 
 LeetCode  
 [![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/)
-
-#### 📌 Мои решения задач: [Task Solution Repo](https://github.com/MarkMelior/Task-Solution)
 
 Stack:  
 [![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
