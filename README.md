@@ -17,7 +17,7 @@
 
 #### 🔗 Мои большие проекты
 
-- [News-Project](https://github.com/MarkMelior/News-Project) (Webpack, React/Redux, Тесты)
+- [News-Project](https://github.com/MarkMelior/News-Project) (Webpack, React/Redux, TypeScript, SCSS, Тесты)
 - [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.js, React, TypeScript, SCSS)
 - [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
 - [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
