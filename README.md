@@ -15,17 +15,16 @@
 
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и много-много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
-#### 🔗 Мои проекты
+#### 🔗 Мои большие проекты
 
 - [News-Project](https://github.com/MarkMelior/News-Project) (Webpack, React/Redux, Тесты)
-- [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.JS, React, TypeScript, SCSS)
-
-- [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+- [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.js, React, TypeScript, SCSS)
 - [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
-
-- [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
+- [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+- others in the repositories...
+<!-- - [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 - [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
-- [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
+- [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS) -->
 
 #### 📌 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
