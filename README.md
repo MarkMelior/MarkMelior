@@ -21,7 +21,7 @@
 - [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.js, React, TypeScript, SCSS)
 - [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
 - [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
-- others in the [repositories](https://github.com/MarkMelior?tab=repositories)...
+- others in the [repositories...](https://github.com/MarkMelior?tab=repositories)
 <!-- - [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 - [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
 - [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS) -->
