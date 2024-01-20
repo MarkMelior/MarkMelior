@@ -1,7 +1,6 @@
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/banner2.jpg)
 
 <h2 align="center">🔥 Привет, я Mark Melior <code>Frontend Developer</code></h2>
-<!-- <p align="center">Я создаю веб-приложения и 3D графику, объединяя технологии и искусство. Постоянно совершенствую навыки и изучаю новые технологии</p> -->
 
 <p align="center">
 <a href="https://t.me/MarkMelior" target="_blank">
@@ -16,27 +15,27 @@
 
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и много-много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
-Почему я выбрал Frontend? Первостепенной причиной стала возможность безгранично развиваться. В других сферах я чувствовал некий потолок и однообразность, чего не чувствую в программировании
+#### 🔗 Мои проекты
 
-#### 🎓 Пройденные курсы
+- [News-Project](https://github.com/MarkMelior/News-Project) (Webpack, React/Redux, Тесты)
+- [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.JS, React, TypeScript, SCSS)
 
--  [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
--  [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
--  [PurpleSchool] TypeScript с нуля `19 часов`
--  [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
--  [PurpleSchool] NestJS `11 часов`
+- [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+- [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
+
+- [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
+- [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
+- [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
 
 #### 📌 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
-#### 🔗 Мои проекты
+#### 🎓 Пройденные курсы
 
--  https://Portfolio-MarkMelior.vercel.app (Next.JS, React, TypeScript, SCSS)
--  [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
--  [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
-
--  [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
--  [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
--  [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS)
+- [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
+- [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
+- [PurpleSchool] TypeScript с нуля `19 часов`
+- [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
+- [PurpleSchool] NestJS `11 часов`
 
 <h2 align="center">Hard Skills</h2>
 
@@ -47,23 +46,16 @@
 	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
 </p>
 
-<!-- CodeWars
-[![CodeWars user MarkMelior](https://www.codewars.com/users/MarkMelior/badges/large)](https://www.codewars.com/users/MarkMelior)
-
-LeetCode
-[![LeetCode user MarkMelior](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow)](https://leetcode.com/MarkMelior/) -->
-
 Stack:  
-[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MarkMelior)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MarkMelior)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/MarkMelior)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/MarkMelior)
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MarkMelior)
 [![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/MarkMelior)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MarkMelior)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MarkMelior)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MarkMelior)
 
 Backend:  
 [![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/MarkMelior)
@@ -97,10 +89,10 @@ Design:
 <h2 align="center">⭐️ My GitHub Stats <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
 
 <p align="center">
-	<!-- <a href="http://www.github.com/MarkMelior" align="center">
+	<a href="http://www.github.com/MarkMelior" align="center">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMelior&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Статистика GitHub Mark Melior" />
 	</a>
-	<br> -->
+	<br>
 	<a href="https://github.com/MarkMelior" align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMelior&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Статистика GitHub Mark Melior Top Languages" />
 	</a>
