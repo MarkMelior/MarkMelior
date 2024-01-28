@@ -21,7 +21,7 @@
 - [Portfolio (Site)](https://Portfolio-MarkMelior.vercel.app) (Next.js, React, TypeScript, SCSS)
 - [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
 - [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
-- others in the [repositories...](https://github.com/MarkMelior?tab=repositories)
+- others in the [repositories...](https://github.com/MarkMelior?tab=repositories) `&&` [Behance](https://www.behance.net/MarkMelior)
 <!-- - [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
 - [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
 - [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS) -->
@@ -36,6 +36,10 @@
 - [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
 - [PurpleSchool] NestJS `11 часов`
 
+#### 👀 Мои работы в 3D графике
+
+![](https://github.com/MarkMelior/MarkMelior/blob/main/3d.png)
+
 <h2 align="center">Hard Skills</h2>
 
 <p align="right">
@@ -48,19 +52,14 @@
 Stack:  
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MarkMelior)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/MarkMelior)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/MarkMelior)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/MarkMelior)
-[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MarkMelior)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/MarkMelior)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/MarkMelior)
 [![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/MarkMelior)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MarkMelior)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MarkMelior)
-
-Backend:  
+[![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/MarkMelior)
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/MarkMelior)
+[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)](https://github.com/MarkMelior)
 [![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/MarkMelior)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MarkMelior)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/MarkMelior)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/MarkMelior)
 
 Design:  
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/MarkMelior)
