@@ -1,14 +1,14 @@
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/banner2.jpg)
 
-<h2 align="center">🔥 Привет, я Mark Melior <code>Frontend Developer</code></h2>
+<h2 align="center">👋 Привет, я Mark Melior <code>Frontend разработчик</code></h2>
 
 <p align="center">
 <a href="https://t.me/MarkMelior" target="_blank">
-	<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-E6A540?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+	<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.behance.net/MarkMelior" target="_blank">
-	<img alt="Behance Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/Behance-E66E40?logo=behance&logoColor=fff&style=for-the-badge"/></a>
+	<img alt="Behance Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
-	<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E65140&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=E65140"/></a> 
+	<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=e93535&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=ff3636"/></a> 
 <a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
 	<img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23E68C40&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/></a> 
 </p>
@@ -78,7 +78,7 @@ My Workspace:
 ![AMD Ryzen 5 3600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ⠀
 
-<h2 align="center">⭐️ My GitHub Stats <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
+<h2 align="center">⭐️ Статистика GitHub <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
 
 <p align="center">
 	<a href="http://www.github.com/MarkMelior" align="center">
