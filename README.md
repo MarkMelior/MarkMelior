@@ -15,19 +15,16 @@
 
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и много-много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
-#### 🔗 Мои большие проекты
+#### 📌 Мои большие проекты
 
-- [Gift-Frontend] (Next.js, TypeScript, Next-intl, FSD, Styled Components и др.)
-- [Discord-Melior-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
-- [Telegram-Melior-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
+- Gift-Frontend `приватный репозиторий` (Next.js, TypeScript, FSD, i18n, SCSS, Styled Components, Storybook, Jest, Git, ESlint/Stylelint/Prettier, Tailwind, NextUI, Themes)
+- [Discord-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
+- [Telegram-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL)
 - others in the [repositories...](https://github.com/MarkMelior?tab=repositories) `||` [Behance](https://www.behance.net/MarkMelior)
-<!-- - [Learn-JavaScript-Base](https://github.com/MarkMelior/Learn-JavaScript-Base)
-- [Learn-React-Pizza-App](https://github.com/MarkMelior/Learn-React-Pizza-App)
-- [Learn-Nest.JS](https://github.com/MarkMelior/Learn-Nest.JS) -->
 
-#### 📌 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
+#### 👨‍💻 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
-#### 🎓 Пройденные курсы
+#### 🎓 Пройденные курсы по программированию
 
 - [Udemy] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
 - [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
@@ -49,15 +46,15 @@
 </p>
 
 Stack:  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
 Design:  
