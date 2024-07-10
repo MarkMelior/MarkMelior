@@ -3,25 +3,29 @@
 <h2 align="center">👋 Привет, я Mark Melior <code>Frontend разработчик</code></h2>
 
 <p align="center">
-<a href="https://t.me/MarkMelior" target="_blank">
-	<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.behance.net/MarkMelior" target="_blank">
-	<img alt="Behance Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/></a>
-<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
-	<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=e93535&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=ff3636"/></a> 
-<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
-	<img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23df863d&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/></a> 
+	<a href="https://t.me/MarkMelior" target="_blank">
+		<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+	</a>
+	<a href="https://www.behance.net/MarkMelior" target="_blank">
+		<img alt="Behance Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/>
+	</a>
+	<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
+		<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=e93535&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=ff3636"/>
+	</a> 
+	<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
+		<img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23df863d&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/>
+	</a> 
 </p>
 
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и много-много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
 #### 📌 Мои большие проекты
 
-- [Gift-Frontend](https://github.com/MarkMelior/Gift-Frontend) (Next.js, TypeScript, RTK Query, Redux Toolkit)
-- [Gift-Api](https://github.com/MarkMelior/Gift-Backend) (Nest.js, Mongoose, JWT, Docker, Zod)
-<!-- - [Discord-Bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
-- [Telegram-Bot](https://github.com/MarkMelior/Telegram-Melior-Bot) (Python, PostgreSQL) -->
-- others in the [repositories...](https://github.com/MarkMelior?tab=repositories) `||` [Behance](https://www.behance.net/MarkMelior)
+1. [Simple-App](https://github.com/MarkMelior/simple-app) — https://simple-app-markmelior.vercel.app
+2. [gift-frontend](https://github.com/MarkMelior/Gift-Frontend) (Next.js, TypeScript, RTK Query, Redux Toolkit)
+3. [gift-api](https://github.com/MarkMelior/Gift-Backend) (Nest.js, Mongoose, JWT, Docker, Zod)
+4. [discord-bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
+5. others in the [repositories...](https://github.com/MarkMelior?tab=repositories) `||` [Behance](https://www.behance.net/MarkMelior)
 
 #### 👨‍💻 Мои решения задач: [Task-Solution](https://github.com/MarkMelior/Task-Solution)
 
