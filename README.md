@@ -21,7 +21,7 @@
 
 #### 📌 Мои большие проекты
 
-1. [Simple-App](https://github.com/MarkMelior/simple-app) — https://simple-app-markmelior.vercel.app
+1. [Simple-App](https://github.com/MarkMelior/simple-app) — https://simple-app-melior.vercel.app/
 2. [gift-frontend](https://github.com/MarkMelior/Gift-Frontend) (Next.js, TypeScript, RTK Query, Redux Toolkit)
 3. [gift-api](https://github.com/MarkMelior/Gift-Backend) (Nest.js, Mongoose, JWT, Docker, Zod)
 4. [discord-bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
