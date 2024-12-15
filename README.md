@@ -17,11 +17,13 @@
 	</a> 
 </p>
 
-Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и много-много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
+Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и оечнь много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
 #### 📌 Мои большие проекты
 
-1. [Simple-App](https://github.com/MarkMelior/simple-app) — https://mark-melior.vercel.app
+> Эти проекты устаревшие. Были актуальны на 07.2024
+
+1. [Simple-App](https://github.com/MarkMelior/simple-app) — https://melior.vercel.app
 2. [gift-frontend](https://github.com/MarkMelior/Gift-Frontend) (Next.js, TypeScript, RTK Query, Redux Toolkit)
 3. [gift-api](https://github.com/MarkMelior/Gift-Backend) (Nest.js, Mongoose, JWT, Docker, Zod)
 4. [discord-bot](https://github.com/MarkMelior/Discord-Melior-Bot) (Python, MySQL)
@@ -31,6 +33,10 @@
 
 #### 🎓 Пройденные курсы по программированию
 
+> Это не реклама курсов. Я никого не призываю проходить именно эти курсы
+
+- [Евгений Паромов] FSD - полный курс `13 часов`
+- [Богдан Стащук] Git - Курс по Git и GitHub `4 часа`
 - [Ulbi TV] Продвинутый Frontend `46 часов`
 - [PurpleSchool] NestJS `11 часов`
 - [PurpleSchool] React, React Router и Redux Toolkit `15 часов`
@@ -38,7 +44,7 @@
 - [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
 - [Михаил Непомнящий] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
 
-#### 👀 Мои работы в 3D графике: [Behance](https://www.behance.net/MarkMelior)
+#### 👀 Мои работы в 3D графике: [ArtStation]([https://www.behance.net/MarkMelior](https://www.artstation.com/MarkMelior))
 
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/3d.png)
 
@@ -55,21 +61,24 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Есть опыт работы:  
+Есть сильный опыт работы:  
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+Также работал с: 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!-- Дизайн:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
