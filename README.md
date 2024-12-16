@@ -48,7 +48,7 @@
 
 > Раньше я работал 3D-художником. На память)
 
-![](https://github.com/MarkMelior/MarkMelior/blob/main/my-3d.jpg)
+![](https://github.com/MarkMelior/MarkMelior/blob/main/3d-works.jpg)
 
 <h2 align="center">Hard Skills</h2>
 
