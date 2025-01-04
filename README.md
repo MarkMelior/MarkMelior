@@ -2,22 +2,22 @@
 
 <h2 align="center">👋 Привет, я Mark Melior <code>Frontend-разработчик</code></h2>
 
+Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и очень много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
+
 <p align="center">
-	<a href="https://t.me/MarkMelior" target="_blank">
-		<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-	</a>
 	<a href="https://www.artstation.com/MarkMelior" target="_blank">
 		<img alt="ArtStation Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/ArtStation-13AFF0?logo=ArtStation&logoColor=fff&style=for-the-badge"/>
 	</a>
 	<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
 		<img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=e93535&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=ff3636"/>
-	</a> 
+	</a>
 	<a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
 		<img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23df863d&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/>
-	</a> 
+	</a>
+		<a href="https://t.me/MarkMelior" target="_blank">
+		<img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+	</a>
 </p>
-
-Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и очень много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
 ⠀
 
@@ -56,9 +56,11 @@
 
 ### 👀 Мои работы в 3D графике: [ArtStation](https://www.artstation.com/MarkMelior)
 
-> Раньше я работал 3D-художником. На память)
+> Раньше я работал 3D-художником. Это на память (:
 
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/3d-works.jpg)
+
+⠀
 
 <h2 align="center">Hard Skills</h2>
 
