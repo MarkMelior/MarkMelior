@@ -1,6 +1,6 @@
 ![](https://github.com/MarkMelior/MarkMelior/blob/main/banner.jpg)
 
-<h2 align="center">👋 Привет, я Mark Melior <code>Frontend разработчик</code></h2>
+<h2 align="center">👋 Привет, я Mark Melior <code>Frontend-разработчик</code></h2>
 
 <p align="center">
 	<a href="https://t.me/MarkMelior" target="_blank">
@@ -19,9 +19,11 @@
 
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и очень много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
+⠀
+
 ### 😁 Мои большие проекты
 
-1. `в разработке` [veesmy-app](https://github.com/MarkMelior/veesmy-app) (https://vees-my.vercel.app) — Самое удобное приложение для записи результатов тренировок
+1. `(в разработке)` [veesmy-app](https://github.com/MarkMelior/veesmy-app) (https://vees-my.vercel.app) — Самое удобное приложение для записи результатов тренировок
 
 
 > 👇 Эти проекты устаревшие. Были актуальны на 07.2024
@@ -30,9 +32,12 @@
 2. `23.06.2024` [gift-frontend](https://github.com/MarkMelior/Gift-Frontend) + [gift-api](https://github.com/MarkMelior/Gift-Backend) — Дипломная работа, удобный поиск креативных подарков, `FSD`
 3. `17.12.2023` [discord-bot](https://github.com/MarkMelior/Discord-Melior-Bot) — Экономическая игра с системой уровней и прокачки + ChatGPT
 
-Остальные работы находятся в [repositories...](https://github.com/MarkMelior?tab=repositories)
 
 Мои решения задачек: [task-solution](https://github.com/MarkMelior/Task-Solution)
+
+Остальные работы находятся в [repositories...](https://github.com/MarkMelior?tab=repositories)
+
+⠀
 
 ### 🎓 Пройденные курсы по программированию
 
@@ -46,6 +51,8 @@
 - [PurpleSchool] TypeScript с нуля `19 часов`
 - [PurpleSchool] JavaScript Base / Advanced `18 & 16 часов`
 - [Михаил Непомнящий] Компетенция Верстальщик - HTML, CSS, JavaScript `27 часов`
+
+⠀
 
 ### 👀 Мои работы в 3D графике: [ArtStation](https://www.artstation.com/MarkMelior)
 
@@ -79,7 +86,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Также работал с: 
+Также работал с:  
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
