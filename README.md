@@ -92,9 +92,9 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+⠀
 
-
-<h3 align="center">💫 Немного статистики <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h3>
+<h2 align="center">💫 Немного статистики <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
 
 <p align="right">
   <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
