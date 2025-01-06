@@ -68,7 +68,7 @@
 
 > Очень много с какими технологиями работал, но вот база
 
-Основные технологии:  
+Железный фундамент:  
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -81,14 +81,16 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
 ![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white)
+![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=NextUI&logoColor=white)
 
 Также, есть опыт:  
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%20CD-000000?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
@@ -107,15 +109,20 @@
 <h2 align="center">💫 Немного статистики</h2>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://codeium.com/profile/MarkMelior" align="center">
+    <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=white" />
+  </a>
+  <a href="http://www.github.com/MarkMelior" align="center">
+    <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://www.codewars.com/users/MarkMelior" align="center">
+    <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
+  </a>
+  <a href="https://leetcode.com/u/MarkMelior" align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
+  </a>
 </p>
-<p align="right">
-  <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
-</p>
-<p align="right">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
-</p>
-<p align="center">
+<p align="left">
   <a href="http://www.github.com/MarkMelior" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMelior&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Статистика GitHub Mark Melior" />
   </a>
