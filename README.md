@@ -109,13 +109,13 @@
 <h2 align="center">💫 Немного статистики</h2>
 
 <p align="right">
-  <a href="https://codeium.com/profile/MarkMelior" align="center">
-    <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=white" />
+  <a href="http://www.github.com/MarkMelior" align="center">
+    <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 <p align="right">
-  <a href="http://www.github.com/MarkMelior" align="center">
-    <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://codeium.com/profile/MarkMelior" align="center">
+    <img src="https://codeium.com/badges/user/MarkMelior/autocomplete" />
   </a>
 </p>
 <p align="right">
@@ -123,11 +123,11 @@
     <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
   </a>
 </p>
-<p align="right">
+<!-- <p align="right">
   <a href="https://leetcode.com/u/MarkMelior" align="center">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
   </a>
-</p>
+</p> -->
 
 <p align="left">
   <a href="http://www.github.com/MarkMelior" align="center">
