@@ -62,9 +62,11 @@
 
 ---
 
+⠀
+
 ### 🔥 Мой стек
 
-> Много с какими технологиями работал, но вот база
+> Очень много с какими технологиями работал, но вот база
 
 Основные технологии:  
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
@@ -85,10 +87,10 @@
 
 Также, есть опыт:  
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/github%actions-000000?style=for-the-badge&logo=github%actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%20CD-000000?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/nest.js-%23DD0031.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -97,13 +99,16 @@
 Дизайн:  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/after%20effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ⠀
 
-<h2 align="center">💫 Немного статистики <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" /></h2>
+<h2 align="center">💫 Немного статистики</h2>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <p align="right">
   <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
 </p>
