@@ -110,7 +110,7 @@
 
 <p align="right">
   <a href="http://www.github.com/MarkMelior" align="center">
-    <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=MarkMelior&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 <p align="right">
