@@ -11,8 +11,8 @@
   <a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
     <img alt="YouTube views" title="YouTube channel total views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrS1fiU-_ImctQ-MDdfLoRA?color=%23df863d&logo=eye&logoColor=white&style=for-the-badge&labelColor=E68C40"/>
   </a>
-    <a href="https://t.me/MarkMelior" target="_blank">
-    <img alt="Telegram Mark Melior" title="Write me" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <a href="https://t.me/upsoord" target="_blank">
+    <img alt="Telegram Channel" title="Subscribe on Telegram Channel" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
