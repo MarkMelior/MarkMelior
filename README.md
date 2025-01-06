@@ -5,8 +5,8 @@
 Начиная с 13 лет я попробовал себя во многих сферах: 3D художник, дизайнер, монтажер и очень много других направлений. Свой первый сайт я написал как раз таки в 13 лет, и в процессе освоения новых навыков, всегда возвращался к написанию кода
 
 <p align="center">
-  <a href="https://www.artstation.com/MarkMelior" target="_blank">
-    <img alt="ArtStation Mark Melior" title="My 3D & Design works" src="https://img.shields.io/badge/ArtStation-13AFF0?logo=ArtStation&logoColor=fff&style=for-the-badge"/>
+  <a href="https://codeium.com/profile/MarkMelior" align="center">
+    <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@MarkMelior?sub_confirmation=1" target="_blank">
     <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrS1fiU-_ImctQ-MDdfLoRA?color=e93535&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=ff3636"/>
@@ -112,16 +112,23 @@
   <a href="https://codeium.com/profile/MarkMelior" align="center">
     <img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=Codeium&logoColor=white" />
   </a>
+</p>
+<p align="right">
   <a href="http://www.github.com/MarkMelior" align="center">
     <img src="https://komarev.com/ghpvc/?username=markmelior&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
+</p>
+<p align="right">
   <a href="https://www.codewars.com/users/MarkMelior" align="center">
     <img src="https://www.codewars.com/users/MarkMelior/badges/large" />
   </a>
+</p>
+<p align="right">
   <a href="https://leetcode.com/u/MarkMelior" align="center">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FMarkMelior&logo=leetcode&logoColor=yellow" />
   </a>
 </p>
+
 <p align="left">
   <a href="http://www.github.com/MarkMelior" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkMelior&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Статистика GitHub Mark Melior" />
