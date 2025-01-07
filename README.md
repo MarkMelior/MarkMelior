@@ -104,7 +104,7 @@
 
 ⠀
 
-<h2 align="center">💫 Немного статистики</h2>
+<h2 align="center">📊 Немного статистики</h2>
 
 <p align="right">
   <a href="http://www.github.com/MarkMelior" align="center">
