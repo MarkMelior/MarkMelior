@@ -73,6 +73,7 @@
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 Есть сильный опыт работы:  
+![Zustand](https://img.shields.io/badge/Zustand-FFB441?style=for-the-badge&logo=ziggo&logoColor=black)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
