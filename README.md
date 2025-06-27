@@ -20,12 +20,10 @@
 
 ### 😁 Мои большие проекты
 
-1. `(в разработке)` [veesmy-app](https://github.com/MarkMelior/veesmy-app) (https://vees-my.vercel.app) — Самое удобное приложение для записи результатов тренировок
-
+1. `(в разработке)` [melior-web](https://github.com/MarkMelior/melior-web) (https://melior.vercel.app) — ❤️ Лучший сайт-портфолио, мини-приложения, блог на mdx
 
 > 👇 Эти проекты устаревшие. Были актуальны на 07.2024
 
-1. `20.07.2024` [simple-app](https://github.com/MarkMelior/simple-app) (https://melior.vercel.app) — Сайт-портфолио, блог на `.mdx` с лучшими практиками программирования, `FSD`
 2. `23.06.2024` [gift-frontend](https://github.com/MarkMelior/Gift-Frontend) + [gift-api](https://github.com/MarkMelior/Gift-Backend) — Дипломная работа, удобный поиск креативных подарков, `FSD`
 3. `17.12.2023` [discord-bot](https://github.com/MarkMelior/Discord-Melior-Bot) — Экономическая игра с системой уровней и прокачки + ChatGPT
 
@@ -66,9 +64,9 @@
 > Очень много с какими технологиями работал, но вот база
 
 Железный фундамент:  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 15](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![TypeScript 5](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React 19](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Feature-Sliced Design](https://img.shields.io/badge/FSD-3481FE?style=for-the-badge&logo=flat&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -82,7 +80,7 @@
 ![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=Ant%20Design&logoColor=white)
-![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=NextUI&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000?logo=HeroUI&logoColor=fff&style=for-the-badge)
 
 Также, есть опыт:  
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
